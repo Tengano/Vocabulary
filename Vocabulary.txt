@@ -1,10 +1,10 @@
-A dead-end job: khoa loc
+A dead-end job:
 Acquire skills:
 Aptitude = talent: năng khiếu
 Beside: bên cạnh
 Blue-collar Worker: Công nhân lao động chân tay
 Boarding school: trường nội trú
-Brush up on: 
+Brush up on:
 Burn out:
 Burn the midnight:
 Bustling/vibrant: S
